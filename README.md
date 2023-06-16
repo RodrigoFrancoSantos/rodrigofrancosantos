@@ -1,10 +1,10 @@
 Olá, meu nome é Rodrigo Franco 👩‍💻
 
  • Sou estudante de front end;<br>
- • Cursando analise e desenvolvimento de sistema na Estácio;<br>
+ • Cursando Analise e Desenvolvimento de Sistema na Estácio;<br>
  • Com habilidade em Html, Css, Javascript, Python, SQL ;<br>
- • Estudando react.js e mongo.db ;<br>
- • São paulo;<br>
+ • Estudando React.JS e Mongo.DB ;<br>
+ • São Paulo;<br>
  • 20 anos;<br>
 
 
