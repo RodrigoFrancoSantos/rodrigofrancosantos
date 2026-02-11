@@ -1,4 +1,4 @@
-## Salve, Rodrigo aqui!
+
 
 <br>
 
@@ -7,7 +7,7 @@
   <div style="display: inline_block"><br>
     
   <img align="left" height="250" alt="coding-time" src="code.gif">
-  <h1 align="center">Tecnologias</h1>
+  <h1 align="center"></h1>
    
   <img align="center" height="30" width="40" alt="java-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" height="30" width="40" alt="python-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />  
