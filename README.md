@@ -25,7 +25,7 @@ Tenho me desenvolvido na área de tecnologia por meio de cursos e formações t�
   
 </div><br>
 
-## 🏆 Prêmios, Cursos e Certificações
+## 🏆 Cursos e Certificações
 
 Descrição   | Instituição   | Ano | Tipo
 --------- | --------- | ------ | ------
