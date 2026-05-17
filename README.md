@@ -1,4 +1,4 @@
-### Oi, aqui é o Rodrigo , Estudante de Análise e Desenvolvimento de Sistemas , focando em Desenvolvimento , Infra e Dados! 👋
+### Oi, aqui é o Rodrigo , Estudante de Análise e Desenvolvimento de Sistemas , focando em Desenvolvimento ! 👋
 
 ## 🧑🏽‍💻 Um pouquinho sobre mim:
 <div>
