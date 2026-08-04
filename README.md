@@ -17,7 +17,7 @@ Busco oportunidades como Analista de Dados Júnior, BI ou áreas relacionadas à
   </p>
 </div>
 
-## 👨🏽‍💻🚀 Minhas Tecnologias  
+## 🚀 Minhas Tecnologias  
   
 <div style="display: inline_block">
   
