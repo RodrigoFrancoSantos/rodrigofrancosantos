@@ -1,11 +1,19 @@
-### Oi, aqui é o Rodrigo , Estudante de Análise e Desenvolvimento de Sistemas , focando em Desenvolvimento ! 👋
-
 ## 🧑🏽‍💻 Um pouquinho sobre mim:
 <div>
   <p>
-   Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente atuo como Suporte Técnico N1, trabalhando com atendimento a grandes empresas, diagnóstico e resolução de problemas técnicos em sistemas e equipamentos. Tenho experiência com análise de dados em SQL, testes de software, redes, hardware e gestão de chamados, sempre buscando garantir o bom funcionamento dos sistemas.
+  
+Sou estudante de Análise e Desenvolvimento de Sistemas com foco em Dados e Tecnologia.
 
-Tenho me desenvolvido na área de tecnologia por meio de cursos e formações técnicas, adquirindo conhecimentos em programação, banco de dados, Linux e infraestrutura. Busco oportunidades como estagiário ou júnior nas áreas de Dados ou Infraestrutura, onde possa aplicar meus conhecimentos e continuar evoluindo profissionalmente.
+Possuo experiência com suporte técnico, análise de informações, SQL Server, Excel e resolução de problemas operacionais.
+
+Atualmente desenvolvo projetos envolvendo:
+- 📊 Análise de Dados
+- 🗄️ SQL e Banco de Dados
+- 🐍 Python para tratamento e análise de dados
+- 📈 Power BI para criação de dashboards
+- ☁️ Conceitos de Cloud e Engenharia de Dados
+
+Busco oportunidades como Analista de Dados Júnior, BI ou áreas relacionadas à Tecnologia.
   </p>
 </div>
 
